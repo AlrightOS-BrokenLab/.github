@@ -12,7 +12,7 @@ Supported Android Versions
 ## Starting From Source
 ---------
 
-Everything Starts From [Here](https://github.com/AlrightOS-Brokenlab/platform_manifest), Repo Says What You Needed.
+Everything Starts From [Here](https://github.com/AlrightOS-Brokenlab/manifest), Repo Says What You Needed.
 Or you can use our [documention](https://docs.alrightos.xyz/docs/). 
 
 ## Useful Links
