@@ -26,6 +26,7 @@ Or you can use our [documention](https://docs.alrightos.xyz/docs/).
 - [GitHub](https://github.com/AlrightOS)
 - [GitHub (Beta)](https://github.com/AlrightOS-BrokenLab)
 - [Discord](https://discord.gg/kePCur5M5C)
+- [Personal Telegram](https://t.me/batuhantrkglv2)
 
  ## Credits
 ---------
