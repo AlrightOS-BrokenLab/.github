@@ -7,7 +7,7 @@ AlrightOS is an Android Custom ROM Based LineageOS, you can say LOS-FORKED or an
 -------------------------------
 Supported Android Versions
 
-- SL (Android 12.1) 
+- Baklava (Android 16)
 
 ## Starting From Source
 ---------
